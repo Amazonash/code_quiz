@@ -5,7 +5,7 @@
 This application test you on your coding abilities.
 
 ## link to app 
-[link to app](https://amazonash.github.io/password_generator/)
+[link to app](https://amazonash.github.io/code_quiz/)
 
 ## examples of the app
 
